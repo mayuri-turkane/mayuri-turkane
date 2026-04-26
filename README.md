@@ -46,7 +46,7 @@ I’m a quick learner, adaptable to new technologies, and always exploring ways 
 ## 🤝 Let’s Connect
 
 📫 LinkedIn: www.linkedin.com/in/mayuri-turkane-39954532b
-💼 GitHub: *You're already here 😉*
+💼 GitHub: https://github.com/mayuri-turkane
 
 ---
 

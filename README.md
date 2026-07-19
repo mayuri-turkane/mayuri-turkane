@@ -19,6 +19,23 @@ A Passionate Full Stack Developer from India 🇮🇳
 
 ---
 
+<!-- About Me -->
+
+## 💫 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 MCA Graduate
+- 💻 Full Stack Developer passionate about building real-world web applications
+- 🌱 Currently learning **AI Integration, System Design & Cloud Technologies**
+- 🚀 Experienced with **React.js, Python, Flask, Java, MySQL**
+- 🔭 Currently working on **Tiffin Tracker** and improving my portfolio
+- 💬 Ask me about **React, Flask, Java, Python, MySQL**
+- 📫 Reach me at **mayuri.turakane12@gmail.com**
+- ⚡ Fun fact: *I love turning ideas into real-world applications.*
+
+<br clear="right"/>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mayuri-turkane&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 

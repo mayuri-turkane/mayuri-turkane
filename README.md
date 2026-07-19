@@ -133,3 +133,135 @@ A Passionate Full Stack Developer from India 🇮🇳
 </div>
 
 <!-- ========================================= -->
+<!-- ========================================= -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🍽️ CampusCrave
+
+A modern full-stack food ordering platform designed for college campuses.
+
+✨ **Features**
+
+- 🔐 JWT Authentication
+- 💳 Razorpay Payment Integration
+- 🤖 ML Demand Prediction
+- 📱 Responsive UI
+- 🍔 Dynamic Menu Management
+- 🔥 REST APIs
+
+**Tech Stack**
+
+`React.js` `Flask` `Python` `MySQL` `JWT` `Razorpay`
+
+🔗 **Repository**
+
+https://github.com/mayuri-turkane/CampusCrave
+
+</td>
+
+<td width="50%">
+
+### 🍱 Tiffin Tracker
+
+A smart web application to manage daily tiffin subscriptions and deliveries.
+
+✨ **Features**
+
+- 🍛 Meal Tracking
+- 📅 Subscription Management
+- 👨‍💼 Admin Dashboard
+- 📊 Order Management
+
+**Tech Stack**
+
+`React.js` `TypeScript` `Node.js`
+
+🔗 **Repository**
+
+https://github.com/mayuri-turkane/Tiffin-Tracker
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💰 Roommate Expense Splitter
+
+A full-stack expense sharing application inspired by Splitwise.
+
+✨ **Features**
+
+- 💸 Smart Bill Splitting
+- 📈 Debt Simplification
+- 👥 Group Expenses
+- 📊 Interactive Dashboard
+
+**Tech Stack**
+
+`React.js` `Node.js` `MySQL`
+
+🔗 **Repository**
+
+https://github.com/mayuri-turkane/roommate-expense-splitter
+
+</td>
+
+<td>
+
+### 🥗 Nutrition Analysis
+
+Android application that identifies food items and displays nutritional information.
+
+✨ **Features**
+
+- 📷 OCR
+- 🥦 Nutrition Detection
+- 📱 Android Application
+- 🗂 SQLite Storage
+
+**Tech Stack**
+
+`Java` `Google Vision API` `SQLite`
+
+🔗 **Repository**
+
+https://github.com/mayuri-turkane/Nutrition-Analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 👁️ Real-Time Human Detection & Counting
+
+A computer vision application that detects and counts people in real time.
+
+✨ **Features**
+
+- 🎥 Live Video Detection
+- 👤 Human Counting
+- 📈 Crowd Monitoring
+- 🚀 Object Tracking
+
+**Tech Stack**
+
+`Python` `OpenCV`
+
+</td>
+
+</tr>
+
+</table>
+
+<!-- ========================================= -->

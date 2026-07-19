@@ -1,53 +1,31 @@
-# ✨ Hey, I'm Mayuri Turkane
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00BFFF&height=250&section=header&text=Mayuri%20Turkane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55" />
+</p>
 
-🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 🚀 **Tech Enthusiast**
+<h1 align="center">
+Hi 👋, I'm Mayuri Turkane
+</h1>
 
----
+<h3 align="center">
+A Passionate Full Stack Developer from India 🇮🇳
+</h3>
 
-## 🌟 About Me
+<p align="center">
 
-I’m a passionate and detail-oriented Computer Applications student who loves turning ideas into real-world applications. With a strong foundation in programming and modern web technologies, I enjoy building solutions that are both functional and impactful.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Python+%7C+Flask+Developer;Java+Programmer;Always+Learning+New+Things+🚀" />
 
-I’m a quick learner, adaptable to new technologies, and always exploring ways to grow as a developer.
-
----
-
-## 🚀 Tech Stack
-
-💻 **Languages:** Java | Python | JavaScript
-🌐 **Frontend:** HTML5 | CSS3 | React
-🛢️ **Database:** MySQL
-⚙️ **Tools:** Git | GitHub | VS Code | Postman
-📌 **Concepts:** OOPs | SDLC | Agile
+</p>
 
 ---
 
-## 🔥 Featured Projects
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mayuri-turkane&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
-🍽️ **Campus Crave (Canteen Management System)**
-→ Developed a system to manage campus food ordering and menu display
-→ Helps students easily browse, order, and manage canteen services
+<img src="https://img.shields.io/github/followers/mayuri-turkane?logo=github&style=for-the-badge"/>
 
-👁️ **Real-Time Human Detection System**
-→ Built using Python & OpenCV for live tracking and counting
+<img src="https://img.shields.io/github/stars/mayuri-turkane?style=for-the-badge"/>
 
-🥗 **Nutrition Analysis App**
-→ Android app using Java & Google Vision API to analyze food data
-
----
-
-## 🌱 Currently Growing In
-
-✨ Advanced Java Development
-✨ Full Stack Web Development
-
----
-
-## 🤝 Let’s Connect
-
-📫 LinkedIn: www.linkedin.com/in/mayuri-turkane-39954532b
-💼 GitHub: https://github.com/mayuri-turkane
-
----
+</p>
 
 ⭐ *“Learn. Build. Improve. Repeat.”*

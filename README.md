@@ -289,3 +289,15 @@ A computer vision application that detects and counts people in real time.
 </p>
 
 <!-- ========================================= -->
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mayuri-turkane/mayuri-turkane/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00BFFF&height=120&section=footer"/>

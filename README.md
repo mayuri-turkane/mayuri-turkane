@@ -21,28 +21,49 @@ A Passionate Full Stack Developer from India 🇮🇳
 
 <!-- About Me -->
 
-## 💫 About Me
+<!-- ========================================= -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 MCA Graduate
-- 💻 Full Stack Developer passionate about building real-world web applications
-- 🌱 Currently learning **AI Integration, System Design & Cloud Technologies**
-- 🚀 Experienced with **React.js, Python, Flask, Java, MySQL**
-- 🔭 Currently working on **Tiffin Tracker** and improving my portfolio
-- 💬 Ask me about **React, Flask, Java, Python, MySQL**
-- 📫 Reach me at **mayuri.turakane12@gmail.com**
-- ⚡ Fun fact: *I love turning ideas into real-world applications.*
+💻 I'm **Mayuri Turkane**, a passionate **Full Stack Developer** and **MCA Graduate** from India.
+
+🚀 I enjoy building **scalable web applications**, **REST APIs**, and **AI-powered solutions** that solve real-world problems.
+
+🌱 Currently expanding my expertise in:
+- Artificial Intelligence Integration
+- System Design
+- Advanced Full Stack Development
+
+💡 I love transforming ideas into practical software while writing clean, efficient, and maintainable code.
+
+🎯 **Career Goal:** To contribute as a Software Engineer by building impactful products, continuously learning modern technologies, and growing as a Full Stack Developer.
+
+---
+
+### 🔭 Current Focus
+
+- 🚀 Building Full Stack Applications
+- 🤖 Exploring AI Integration
+- 📚 Strengthening Data Structures & Algorithms
+- ⚡ Learning System Design
+- 🌍 Contributing to Open Source
+
+---
+
+### 💬 Ask Me About
+
+💙 React.js • Next.js • Python • Java • Flask • REST APIs • MySQL • Git • GitHub
+
+---
+
+### 📫 Contact
+
+📧 **Email:** mayuri.turkane12@gmail.com
+
+🌐 **Portfolio:** *(We'll add this later)*
+
+💼 **LinkedIn:** www.linkedin.com/in/mayuri-turkane-39954532b
 
 <br clear="right"/>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mayuri-turkane&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/mayuri-turkane?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/mayuri-turkane?style=for-the-badge"/>
-
-</p>
-
-⭐ *“Learn. Build. Improve. Repeat.”*
+<!-- ========================================= -->

@@ -484,7 +484,7 @@ Android Application using OCR & AI.
 
 </div>
 
-> **⚠️ Important:** This image will only appear after you create the GitHub Action (`.github/workflows/snake.yml`) and it runs successfully.
+
 
 ---
 

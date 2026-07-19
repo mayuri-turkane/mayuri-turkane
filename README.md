@@ -67,3 +67,49 @@ A Passionate Full Stack Developer from India 🇮🇳
 
 <br clear="right"/>
 <!-- ========================================= -->
+<!-- ========================================= -->
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🤖 AI, Computer Vision & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Vision%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay_API-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,eclipse,npm" />
+</p>
+
+### 📚 Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
+</p>
+
+<!-- ========================================= -->

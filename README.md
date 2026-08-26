@@ -435,7 +435,7 @@ Android Application using OCR & AI.
 # 🌐 Let's Connect
 <div align="center">
 
-<a href="mailto:mayuri.turkane12@gmail.com">
+<a href="mailto:mayuri.turakane12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -448,7 +448,7 @@ Android Application using OCR & AI.
 </a>
 
 <!-- Replace this with your actual deployed portfolio URL -->
-<a href="https://your-portfolio-link.com">
+<a href="https://portfolio-website-xvr5.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
